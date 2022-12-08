@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Anna, estudante Salesforce.
-<div align="center">
+<div align="right">
   <a href="https://github.com/Annakaroliny">
   <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Annakaroliny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annakaroliny&layout=compact&langs_count=7&theme=dracula"/>
